@@ -37,7 +37,7 @@
 /* Styles for the textarea element in the composer */
 .bpw-composer textarea {
     /* Sets the background color to a variable named "--white" */
-    background: var(--white);
+    background: black;
     /* Sets the border to a 1-pixel solid line using a variable named "--zinc-200" */
     border: 1px solid var(--zinc-200);
     /* Sets the border radius to a variable named "--spacing-medium" to make the edges rounded */
